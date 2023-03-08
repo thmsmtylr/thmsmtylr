@@ -1,5 +1,5 @@
 ## Hi, I’m @thmsmtylr 👋
-Tech Lead/Software Engineer with 11+ years of experience. I specialize in *React and TypeScript*. I am comfortable working with a wide range of languages and architectures, such as React Native, Elixir, Golang, Ruby, Ruby on Rails, Serverless, Headless, Monolithic, etc. I have worked with both early-stage startups, mature startups and large corporations, and I am passionate about delivering high-quality software solutions that meet the unique needs of each business.
+Tech Lead/Software Engineer with 11+ years of experience. I specialize in *React and TypeScript*. I am comfortable working with a wide range of languages and architectures, such as React Native, Elixir, Golang, Ruby, Ruby on Rails, Serverless, Headless, Monolithic, etc. I have worked with early-stage startups, mature startups, advertising agencies, not-for-profits and large corporations, and I am passionate about delivering high-quality software solutions that meet the unique needs of each business.
   
 🚧 In my free time, I'm developing a serverless e-commerce SaaS that enables vendors to manage multiple brands, regions, currencies, and tax regulations (including DDP and DDU), along with many other features currently in development. <br />
 
