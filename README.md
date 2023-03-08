@@ -1,7 +1,9 @@
 ## Hi, I’m @thmsmtylr 👋
-Tech Lead with 10+ years of experience currently working for [A&S Labels](https://www.linkedin.com/company/a-s-labels-pty-ltd/mycompany/). I specializes in *Front-end/UI/Design System development*. I am comfortable working with a wide range of languages and architectures, such as TypeScript, JavaScript, React Native, Elixir, Golang, Ruby, Ruby on Rails, Serverless, Headless, Monolithic, etc. I have worked with both early-stage startups and large corporations, and I am passionate about delivering high-quality software solutions that meet the unique needs of each business. My ability to communicate complex technical concepts in a clear and concise way allows me to collaborate effectively with non-technical stakeholders and deliver results efficiently.
+Tech Lead/Software Engineer with 11+ years of experience. I specialize in *React and TypeScript*. I am comfortable working with a wide range of languages and architectures, such as React Native, Elixir, Golang, Ruby, Ruby on Rails, Serverless, Headless, Monolithic, etc. I have worked with both early-stage startups, mature startups and large corporations, and I am passionate about delivering high-quality software solutions that meet the unique needs of each business.
   
 🚧 In my free time, I'm developing a serverless e-commerce SaaS that enables vendors to manage multiple brands, regions, currencies, and tax regulations (including DDP and DDU), along with many other features currently in development. <br />
+
+📚 Currently learning [Spline](https://spline.design) and [React Three Fibre](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
 📫 Email me at thmsmtylr[at]gmail[dot]com
 
